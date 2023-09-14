@@ -27,9 +27,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head> */}
       <section className={utilStyles.headingMd}>
-        <p>
-          私はフルスタックエンジニアです/Udemy講師として活動しています/好きな言語はJavascriptです
-        </p>
+        <p>私はフルスタックエンジニアです/好きな言語はNext.jsです</p>
         {/* <Link href="/posts/first-post">最初の投稿はこちら</Link>  あとで外す*/}
       </section>
 
